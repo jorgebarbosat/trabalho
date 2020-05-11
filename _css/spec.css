@@ -111,3 +111,18 @@ nav#menu a {
 nav#menu a:hover {
     color: white;
 }
+.direita {
+    text-align: right;
+}
+footer#rodape {
+    clear: both;
+    border-top: 1px solid #606060;
+}
+footer#rodape p {
+    text-align: center;
+}
+* {
+    margin: 0;
+    padding: 0;
+    margin-top: 23px;
+}

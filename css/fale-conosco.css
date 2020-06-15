@@ -75,8 +75,6 @@ input, textarea {
     padding: 10px;
     color: black;
     margin-left: 20px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
     border: 1px solid;
 }
  

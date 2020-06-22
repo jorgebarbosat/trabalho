@@ -179,3 +179,9 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+#backtopo {
+    display: scroll;
+    position: fixed;
+    top: 30px;
+    right: 10px;
+}

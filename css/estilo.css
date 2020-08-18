@@ -175,6 +175,8 @@ aside#lateral h2 {
 footer#rodape {
     clear: both;
     border-top: 1px solid #606060;
+    left: 10px;
+    right: 2px;
 }
 footer#rodape p {
     text-align: center;
